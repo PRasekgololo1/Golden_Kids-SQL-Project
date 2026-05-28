@@ -1,0 +1,1 @@
+CREATE DATABASE Golden Kids_DB;
