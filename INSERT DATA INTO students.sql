@@ -1,4 +1,4 @@
-INSERT INTO students(student_name, student_name, Cellphone, Email)
+INSERT INTO students(student_name, student_surname, Cellphone, Email)
  VALUES
  ('John','Nkomo',0871233456,'John@nkomo.com'),
  ('Jake','Green',0671433456,'Jake@green.com'),
